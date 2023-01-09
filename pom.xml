@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.burrsutter</groupId>
-	<artifactId>java-springboot-hello</artifactId>
+	<artifactId>demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>java-springboot-hello</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
